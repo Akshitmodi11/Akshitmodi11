@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **LLM Project**
 
-- 🌱 I’m currently learning **Advance Database System and EDA**
+- 🌱 I’m currently learning **Advance Database System, EDA and Machine Learning**
 
 - 📫 How to reach me **akshitmodi05@gmail.com**
 
