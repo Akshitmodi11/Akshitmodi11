@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshit Modi</h1>
 <h3 align="center">I'm a graduate student of Biomedical Informatics Student with Specialization in Biomedical Data Science.</h3>
 
-- 🔭 I’m currently working on **NLP Project**
+- 🔭 I’m currently working on **CDS NLP Project**
 
 - 🌱 I’m currently learning **Advance Database Management System, EDA and Machine Learning**
 
