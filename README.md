@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshit Modi</h1>
-<h3 align="center">I'm a recently graduate from Biomedical Informatics & Data Science and looking for the Data Science role in healthcare domain.</h3>
+<h3 align="center">I'm a recently graduate from Arizona State University in Biomedical Informatics & Data Science and looking for the Data Science role in healthcare domain.</h3>
 
 - 🔭 I’m currently working on **CDS NLP Project**
 
