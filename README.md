@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akshit Modi</h1>
 <h3 align="center">I'm a recently graduate from Arizona State University in Biomedical Informatics & Data Science and looking for the Data Science role in healthcare domain.</h3>
 
-- 🔭 I’m currently working at Tempus.**
+-  I’m currently working at Tempus.**
 
-- 🌱 I’m currently focusing on BioBERT and ClinicalBert**
+-  I’m currently looking for full time roles in healthcare data science **
 
 - 📫 How to reach me **akshitmodi05@gmail.com**
 
